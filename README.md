@@ -12,7 +12,9 @@ This project involves using unsupervised machine learning to analyze a database 
 
 
 
+### Visualizing Cryptocurrencies Results: 3D-Scatter with Clusters
 
+![3d](https://user-images.githubusercontent.com/58860105/146703129-f10baf32-1230-44e3-b467-b82b5dd918e6.PNG)
 
 
 2D-Scatter plot with TotalCoinMined vs TotalCoinSupply
