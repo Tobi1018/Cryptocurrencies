@@ -24,6 +24,6 @@ This project involves using unsupervised machine learning to analyze a database 
 
 
 
-2D-Scatter plot with TotalCoinMined vs TotalCoinSupply
+### 2D-Scatter plot with TotalCoinMined vs TotalCoinSupply
 
 ![18imge](https://user-images.githubusercontent.com/58860105/146702964-b0f1cb55-c17d-4661-8b80-ad6a11bc96c5.PNG)
