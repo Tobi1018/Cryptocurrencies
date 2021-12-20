@@ -10,6 +10,7 @@ This project involves using unsupervised machine learning to analyze a database 
 
 
 ### Clustering Crytocurrencies Using K-Means
+The best K Value (Elbow curve) breaks at point 4
 ![kmean](https://user-images.githubusercontent.com/58860105/146703258-c5535c78-120c-48cd-9200-d3d4b082bf86.PNG)
 
 
