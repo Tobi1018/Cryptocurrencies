@@ -18,6 +18,12 @@ This project involves using unsupervised machine learning to analyze a database 
 ![3d](https://user-images.githubusercontent.com/58860105/146703129-f10baf32-1230-44e3-b467-b82b5dd918e6.PNG)
 
 
+
+### Tradable Cryptocurrencies DataTable
+![tradable](https://user-images.githubusercontent.com/58860105/146703519-8fc6c1f1-a367-4952-97cf-29f5dc7bd82e.PNG)
+
+
+
 2D-Scatter plot with TotalCoinMined vs TotalCoinSupply
 
 ![18imge](https://user-images.githubusercontent.com/58860105/146702964-b0f1cb55-c17d-4661-8b80-ad6a11bc96c5.PNG)
